@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/piaopiloto/precache-manifest.915d222cce999357df93748e9df42b67.js"
+  "/piaopiloto/precache-manifest.d5e3e5cbad9dce5c56d4d61c44c44d4f.js"
 );
 
 self.addEventListener('message', (event) => {

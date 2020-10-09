@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/piaopiloto/static/css/main.65a883dd.chunk.css",
-    "main.js": "/piaopiloto/static/js/main.97bae5f9.chunk.js",
-    "main.js.map": "/piaopiloto/static/js/main.97bae5f9.chunk.js.map",
+    "main.css": "/piaopiloto/static/css/main.d20a2cb3.chunk.css",
+    "main.js": "/piaopiloto/static/js/main.da0f6857.chunk.js",
+    "main.js.map": "/piaopiloto/static/js/main.da0f6857.chunk.js.map",
     "runtime-main.js": "/piaopiloto/static/js/runtime-main.ffb723fc.js",
     "runtime-main.js.map": "/piaopiloto/static/js/runtime-main.ffb723fc.js.map",
-    "static/js/2.bc4c2432.chunk.js": "/piaopiloto/static/js/2.bc4c2432.chunk.js",
-    "static/js/2.bc4c2432.chunk.js.map": "/piaopiloto/static/js/2.bc4c2432.chunk.js.map",
+    "static/js/2.528804c7.chunk.js": "/piaopiloto/static/js/2.528804c7.chunk.js",
+    "static/js/2.528804c7.chunk.js.map": "/piaopiloto/static/js/2.528804c7.chunk.js.map",
     "index.html": "/piaopiloto/index.html",
-    "precache-manifest.915d222cce999357df93748e9df42b67.js": "/piaopiloto/precache-manifest.915d222cce999357df93748e9df42b67.js",
+    "precache-manifest.d5e3e5cbad9dce5c56d4d61c44c44d4f.js": "/piaopiloto/precache-manifest.d5e3e5cbad9dce5c56d4d61c44c44d4f.js",
     "service-worker.js": "/piaopiloto/service-worker.js",
-    "static/css/main.65a883dd.chunk.css.map": "/piaopiloto/static/css/main.65a883dd.chunk.css.map",
-    "static/js/2.bc4c2432.chunk.js.LICENSE.txt": "/piaopiloto/static/js/2.bc4c2432.chunk.js.LICENSE.txt",
+    "static/css/main.d20a2cb3.chunk.css.map": "/piaopiloto/static/css/main.d20a2cb3.chunk.css.map",
+    "static/js/2.528804c7.chunk.js.LICENSE.txt": "/piaopiloto/static/js/2.528804c7.chunk.js.LICENSE.txt",
     "static/media/Jogadores.css": "/piaopiloto/static/media/yago.1b3594ad.jpg",
     "static/media/App.css": "/piaopiloto/static/media/tennisball.708b84b8.png",
-    "static/media/boop.mp3": "/piaopiloto/static/media/boop.20bdb211.mp3",
-    "static/media/siren.mp3": "/piaopiloto/static/media/siren.589d6e56.mp3"
+    "static/media/musica.mp3": "/piaopiloto/static/media/musica.55f2f552.mp3",
+    "static/media/siren.mp3": "/piaopiloto/static/media/siren.589d6e56.mp3",
+    "static/media/switchDown.png": "/piaopiloto/static/media/switchDown.284e0f33.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ffb723fc.js",
-    "static/js/2.bc4c2432.chunk.js",
-    "static/css/main.65a883dd.chunk.css",
-    "static/js/main.97bae5f9.chunk.js"
+    "static/js/2.528804c7.chunk.js",
+    "static/css/main.d20a2cb3.chunk.css",
+    "static/js/main.da0f6857.chunk.js"
   ]
 }

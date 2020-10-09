@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de0d78ee660c9f05a74a6eb1f2938284",
+    "revision": "60dbc51c8771a4625c69468553d4eda0",
     "url": "/piaopiloto/index.html"
   },
   {
-    "revision": "1669dec7d49b1882b227",
-    "url": "/piaopiloto/static/css/main.65a883dd.chunk.css"
+    "revision": "5178ed1dd4a95254feaf",
+    "url": "/piaopiloto/static/css/main.d20a2cb3.chunk.css"
   },
   {
-    "revision": "fbe7eb9599a587882e44",
-    "url": "/piaopiloto/static/js/2.bc4c2432.chunk.js"
+    "revision": "9d73284a9559e2fc08f8",
+    "url": "/piaopiloto/static/js/2.528804c7.chunk.js"
   },
   {
     "revision": "01b52e8cfa161811ba4cbd78f485a21f",
-    "url": "/piaopiloto/static/js/2.bc4c2432.chunk.js.LICENSE.txt"
+    "url": "/piaopiloto/static/js/2.528804c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1669dec7d49b1882b227",
-    "url": "/piaopiloto/static/js/main.97bae5f9.chunk.js"
+    "revision": "5178ed1dd4a95254feaf",
+    "url": "/piaopiloto/static/js/main.da0f6857.chunk.js"
   },
   {
     "revision": "995b0e932bcf0a166163",
@@ -50,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e343740d7fe0ba8da18fff2ae4a509c2",
     "url": "/piaopiloto/static/media/bonke.e343740d.jpg"
-  },
-  {
-    "revision": "20bdb211ec0852daed06e84fb497a483",
-    "url": "/piaopiloto/static/media/boop.20bdb211.mp3"
   },
   {
     "revision": "ace5a52d872c7cded7aa6092b707d442",
@@ -96,12 +92,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piaopiloto/static/media/mariana.3eebc845.jpg"
   },
   {
+    "revision": "55f2f552dd1fdaa5de15ef0ca086dfb9",
+    "url": "/piaopiloto/static/media/musica.55f2f552.mp3"
+  },
+  {
     "revision": "927debc8ec4ef0b0d529ffcd9646ee7e",
     "url": "/piaopiloto/static/media/romao.927debc8.jpg"
   },
   {
     "revision": "589d6e562b38e52a2d463f00eee5714f",
     "url": "/piaopiloto/static/media/siren.589d6e56.mp3"
+  },
+  {
+    "revision": "284e0f337ecf5274aefa25ef87993ba9",
+    "url": "/piaopiloto/static/media/switchDown.284e0f33.png"
+  },
+  {
+    "revision": "ab9b12f686fed8fd18c0cb8f95cecd52",
+    "url": "/piaopiloto/static/media/switchUp.ab9b12f6.png"
   },
   {
     "revision": "708b84b8d497e6ec3a183b505feefe01",
